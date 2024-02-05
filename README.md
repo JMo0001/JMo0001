@@ -6,14 +6,18 @@
 <h3>수료 내용 및 skill</h3> 
 <hr>
 <table>
-  <tr>
-    <th>구분</th>
-    <th>상세</th>
-  </tr>
-  <tr>
-    <td>front-end</td>
-    <td>JavaScript, jQuery, HTML5, CSS3, Ajax</td>
-  </tr>
+  <thead>
+    <tr>
+      <th>구분</th>
+      <th>상세</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>front-end</td>
+      <td>JavaScript, jQuery, HTML5, CSS3, Ajax</td>
+    </tr>
+  </tbody>
 </table>
 |구분|상세|
 |--|--|
