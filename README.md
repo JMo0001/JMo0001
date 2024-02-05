@@ -17,17 +17,33 @@
       <td>front-end</td>
       <td>JavaScript, jQuery, HTML5, CSS3, Ajax</td>
     </tr>
+    <tr>
+      <td>back-end</td>
+      <td>Java, JSP&Servlet, MyBatis</td>
+    </tr>
+    <tr>
+      <td>framework/Library</td>
+      <td>Spring, react, 전자정부프레임워크</td>
+    </tr>
+    <tr>
+      <td>DB</td>
+      <td>Oracle</td>
+    </tr>
+    <tr>
+      <td>Tool</td>
+      <td>Eclipse, Visual studio Code, STS</td>
+    </tr>
+    <tr>
+      <td>Environmen</td>
+      <td>Window 10, Tomcat</td>
+    </tr>
+    <tr>
+      <td>Collaboration</td>
+      <td>GitHub</td>
+    </tr>
   </tbody>
 </table>
-|구분|상세|
-|--|--|
-|front-end|JavaScript, jQuery, HTML5, CSS3, Ajax|
-|back-end|Java, JSP&Servlet, MyBatis|
-|framework/Library|Spring, react, 전자정부프레임워크|
-|DB|Oracle|
-|Tool|Eclipse, Visual studio Code, STS|
-|Environment|Window 10, Tomcat|
-|Collaboration|GitHub|
+
 
 
 <!--
