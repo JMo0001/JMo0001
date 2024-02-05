@@ -5,6 +5,12 @@
 <br>
 <h3>수료 내용 및 skill</h3> 
 <hr>
+<tr>
+  <th>
+    <td>구분</td>
+    <td>상세</td>
+  </th>
+</tr>
 |구분|상세|
 |--|--|
 |front-end|JavaScript, jQuery, HTML5, CSS3, Ajax|
