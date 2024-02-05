@@ -1,4 +1,6 @@
-### Hi there 👋
+### Jun Mo - Park (박준모)
+
+2023.10.31. KH종합교육원 '공공데이터 융합 자발개발자 양성과정A23' 수료
 
 <!--
 **JMo0001/JMo0001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
