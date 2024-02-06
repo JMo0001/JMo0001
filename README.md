@@ -23,7 +23,7 @@
     </tr>
     <tr>
       <td>framework/Library</td>
-      <td>Spring, react, 전자정부프레임워크</td>
+      <td>Spring, react, 공공데이터</td>
     </tr>
     <tr>
       <td>DB</td>
